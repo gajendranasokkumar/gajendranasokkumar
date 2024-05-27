@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gajendranasokkumar
-- 👀 I’m interested in FullStack and AI
-- 🌱 I’m currently learning BE CSE 
+- 👀 I’m a FullStack developer 
+- 🌱 I’m currently pursuing BE CSE 
 - 📫 How to reach me: gajendran2908@gmial.com
 
 <!---

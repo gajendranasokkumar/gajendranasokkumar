@@ -24,13 +24,6 @@
 </div>
 <br />
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gajendranasokkumar/gajendranasokkumar/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div>
-
 <center>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajendranasokkumar&show_icons=true&locale=en&layout=compact" alt="gajendranasokkumar" /></p>
 </center>

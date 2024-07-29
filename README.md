@@ -24,8 +24,8 @@
 </div>
 <br />
 
-<center>
+<!--<center>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajendranasokkumar&show_icons=true&locale=en&layout=compact" alt="gajendranasokkumar" /></p>
-</center>
+</center>-->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajendranasokkumar&" alt="gajendranasokkumar" /></p>-->

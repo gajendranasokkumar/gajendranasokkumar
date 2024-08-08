@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN PROJECTS**
 
-- 👨‍💻 All of my projects are available at [https://gajendran.ccbp.tech/](https://gajendran.ccbp.tech/)
+- 👨‍💻 My portfolio:  [https://gajendran.ccbp.tech/](https://gajendran.ccbp.tech/)
 
 - 📫 How to reach me **gajendran2908@gmail.com**
 

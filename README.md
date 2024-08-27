@@ -29,3 +29,7 @@
 </center>-->
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gajendranasokkumar&" alt="gajendranasokkumar" /></p>-->
+<p align="center">
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/GajendranA?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+

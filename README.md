@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,html,css,vscode,github,git,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,python,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,c,java,python,mysql,redis" /><br>
 </div>
 <br />
 

@@ -33,3 +33,8 @@
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/GajendranA?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
+&nbsp;![](https://komarev.com/ghpvc/?username=gajendranasokkumar&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajendranasokkumar&show_icons=true&rank_icon=github&locale=en" alt="ashishps1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gajendranasokkumar&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
+
